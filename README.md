@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning Game Engines and graphics programming.
+🌱 I’m currently learning Game Engines and Graphics Programming.
 <!--
 **IgnacioMGarrido/IgnacioMGarrido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
